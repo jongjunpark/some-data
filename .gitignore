@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,unity,java,vue,vuejs
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,unity,java,vue,vuejs
 
+Video/
+
 ### Java ###
 # Compiled class file
 *.class
